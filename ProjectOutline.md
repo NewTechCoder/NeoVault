@@ -43,7 +43,7 @@
 
 - Set up a Kanban or Scrum board (depending on your preference).
 
-# Step 4: Plan Sprints
+# Sprint Plans
 
 - Divide your project into 3 sprints, each lasting 1-2 weeks.
 
