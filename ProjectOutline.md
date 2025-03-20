@@ -1,11 +1,11 @@
 
-# Step 1: Define Your Project
+# NeoVault Banking Application
 
 - Objective: Build a Simple Banking Application that includes user account management, deposits, withdrawals, balance checks, and transaction history.
 
 - Tech Stack: Java for development, GitHub for version control, and Jira for project management.
 
-# Step 2: Gather Requirements
+# Requirements
 
 ## User Stories:
 
@@ -21,7 +21,7 @@
 
 - Acceptance Criteria: Define clear success criteria for each user story.
 
-# Step 3: Set Up Your Environment
+# Environment Setup
 
 ## Install Tools:
 
@@ -75,7 +75,7 @@
 
 - Document the project (e.g., README file for GitHub).
 
-## Step 5: Daily Workflow
+## Daily Workflow
 
 Start each day with a daily stand-up:
 
@@ -87,7 +87,7 @@ Start each day with a daily stand-up:
 
 Use Jira to update task progress on the board.
 
-## Step 6: Learn and Apply
+## Learn and Apply
 
 ### For Java:
 
@@ -105,7 +105,7 @@ Use Jira to update task progress on the board.
 
 - Practice creating issues, tracking progress, and generating sprint reports.
 
-## Step 7: Testing
+## Testing
 
 - Perform Unit Testing: Write tests for each method in your Java application.
 
@@ -113,7 +113,7 @@ Use Jira to update task progress on the board.
 
 Test the application manually for user stories.
 
-## Step 8: Deploy
+## Deploy
 
 - Create a release branch in GitHub.
 
@@ -121,7 +121,7 @@ Test the application manually for user stories.
 
 - Celebrate your achievement!
 
-## Step 9: Retrospective
+## Retrospective
 
 ### Reflect on:
 
